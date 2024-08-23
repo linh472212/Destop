@@ -1,0 +1,12 @@
+D:\baitapthietke\baitapthietke\bin\Debug\baitapthietke.exe.config
+D:\baitapthietke\baitapthietke\bin\Debug\baitapthietke.exe
+D:\baitapthietke\baitapthietke\bin\Debug\baitapthietke.pdb
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.csproj.AssemblyReference.cache
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.frmBai1.resources
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.frmchinh.resources
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.Properties.Resources.resources
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.csproj.GenerateResource.cache
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.csproj.CoreCompileInputs.cache
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.exe
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.pdb
+D:\baitapthietke\baitapthietke\obj\Debug\baitapthietke.frmBai2.resources
