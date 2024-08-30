@@ -1,0 +1,10 @@
+D:\MyForm_NTML\MyForm_NTML\bin\Debug\MyForm_NTML.exe.config
+D:\MyForm_NTML\MyForm_NTML\bin\Debug\MyForm_NTML.exe
+D:\MyForm_NTML\MyForm_NTML\bin\Debug\MyForm_NTML.pdb
+D:\MyForm_NTML\MyForm_NTML\obj\Debug\MyForm_NTML.csproj.AssemblyReference.cache
+D:\MyForm_NTML\MyForm_NTML\obj\Debug\MyForm_NTML.Properties.Resources.resources
+D:\MyForm_NTML\MyForm_NTML\obj\Debug\MyForm_NTML.csproj.GenerateResource.cache
+D:\MyForm_NTML\MyForm_NTML\obj\Debug\MyForm_NTML.csproj.CoreCompileInputs.cache
+D:\MyForm_NTML\MyForm_NTML\obj\Debug\MyForm_NTML.exe
+D:\MyForm_NTML\MyForm_NTML\obj\Debug\MyForm_NTML.pdb
+D:\MyForm_NTML\MyForm_NTML\obj\Debug\MyForm_NTML.FrmTrungTam.resources
